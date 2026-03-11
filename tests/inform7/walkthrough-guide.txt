@@ -1,0 +1,10 @@
+# Auto-generated walkthrough guide
+
+# "Stand back, Larva! I am ferocious!"
+> kiss wasp
+# "Get away, Larva!"
+> hit wasp
+# "Get away, Grasshopper!"
+> hit drone
+# "You forget yourself, Grasshopper! I have ferocious allies!"
+> kiss drone

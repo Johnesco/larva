@@ -1,0 +1,21 @@
+
+
+
+
+Fifty Ways to Leave Your Larva
+An Interactive Fiction
+Release 1 / Serial number 260310 / Inform 7 v10.1.2 / D
+
+Beekeeper's Palace
+You can see Wasp and Drone here.
+
+>"Stand back, Larva! I am ferocious!"
+
+>"Get away, Larva!"
+
+>"Get away, Grasshopper!"
+
+>"You forget yourself, Grasshopper! I have ferocious allies!"
+
+>
+<end of input>
