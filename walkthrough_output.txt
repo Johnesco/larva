@@ -4,7 +4,7 @@
 
 Fifty Ways to Leave Your Larva
 An Interactive Fiction
-Release 1 / Serial number 260310 / Inform 7 v10.1.2 / D
+Release 1 / Serial number 260322 / Inform 7 v10.1.2 / D
 
 Beekeeper's Palace
 You can see Wasp and Drone here.
