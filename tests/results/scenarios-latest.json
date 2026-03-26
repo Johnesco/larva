@@ -1,0 +1,38 @@
+{
+  "game": "Fifty Ways to Leave Your Larva",
+  "regtest_file": "larva/tests/larva.regtest",
+  "seed": "",
+  "duration_seconds": 0.0,
+  "total": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0,
+  "wins": 0,
+  "win_scenarios": [],
+  "primary": null,
+  "scenarios": [
+    {
+      "name": "smoke",
+      "commands": 1,
+      "transcript_lines": 23,
+      "exit_code": 0,
+      "output_file": "larva\\tests\\scenarios\\smoke.transcript.txt",
+      "commands_file": "larva\\tests\\scenarios\\smoke.commands.txt",
+      "seed": "",
+      "status": "pass",
+      "score": "",
+      "win": false,
+      "won_text": false,
+      "deaths": 0,
+      "errors": 0,
+      "cant_see": 0,
+      "cant_go": 0,
+      "parse_errors": 0,
+      "score_ups": 0,
+      "score_downs": 0,
+      "category": "Uncategorized",
+      "title": "smoke",
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "game": "Fifty Ways to Leave Your Larva",
+  "timestamp": "2026-03-26T03:25:53+00:00",
+  "binary_hash": "026e4232",
+  "duration_seconds": 0.3,
+  "layers": {
+    "plotex": {
+      "status": "skip",
+      "detail": "not configured"
+    },
+    "regtest": {
+      "status": "fail",
+      "detail": "1 assertion(s) failed",
+      "failures": [
+        "<LiteralCheck:6 \"Starting Room\">: not found"
+      ]
+    },
+    "scenarios": {
+      "status": "pass",
+      "total": 1,
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0,
+      "wins": 0,
+      "win_scenarios": [],
+      "duration": 0.0
+    }
+  },
+  "overall": "fail"
+}
