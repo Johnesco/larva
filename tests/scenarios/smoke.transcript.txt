@@ -17,7 +17,3 @@ You can see Wasp and Drone here.
 
 > score
 There is no score in this story.
-
-
-> quit
-Are you sure you want to quit? 

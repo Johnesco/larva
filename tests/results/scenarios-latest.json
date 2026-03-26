@@ -1,6 +1,6 @@
 {
   "game": "Fifty Ways to Leave Your Larva",
-  "regtest_file": "larva/tests/larva.regtest",
+  "regtest_file": "C:/code/text-games/i7/larva/tests/larva.regtest",
   "seed": "",
   "duration_seconds": 0.0,
   "total": 1,
@@ -10,16 +10,36 @@
   "wins": 0,
   "win_scenarios": [],
   "primary": null,
+  "assertions": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0
+  },
   "scenarios": [
     {
       "name": "smoke",
-      "commands": 1,
-      "transcript_lines": 23,
-      "exit_code": 0,
-      "output_file": "larva\\tests\\scenarios\\smoke.transcript.txt",
-      "commands_file": "larva\\tests\\scenarios\\smoke.commands.txt",
-      "seed": "",
       "status": "pass",
+      "seed": "",
+      "commands": 1,
+      "transcript_lines": 19,
+      "exit_code": 0,
+      "transcript_file": "C:\\code\\text-games\\i7\\larva\\tests\\scenarios\\smoke.transcript.txt",
+      "commands_file": "C:\\code\\text-games\\i7\\larva\\tests\\scenarios\\smoke.commands.txt",
+      "assertions": {
+        "total": 1,
+        "passed": 1,
+        "failed": 0,
+        "failures": [],
+        "details": [
+          {
+            "check": "/Beekeeper",
+            "command": "look",
+            "cmd_idx": 1,
+            "passed": true,
+            "response": "Beekeeper's Palace\nYou can see Wasp and Drone here."
+          }
+        ]
+      },
       "score": "",
       "win": false,
       "won_text": false,
