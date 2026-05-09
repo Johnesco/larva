@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "storyId": "larva",
+  "timestamp": "2026-05-09T05:21:26.380025+00:00",
+  "transcripts": [
+    {
+      "file": "larva.scenario",
+      "title": "smoke",
+      "commands": [
+        {
+          "lineNumber": 1,
+          "input": "look",
+          "output": "Beekeeper's Palace\nYou can see Wasp and Drone here.",
+          "passed": true,
+          "skipped": false,
+          "assertions": [
+            {
+              "type": "ok-matches",
+              "passed": true,
+              "value": "Beekeeper"
+            }
+          ]
+        }
+      ],
+      "summary": {
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0
+      }
+    }
+  ],
+  "summary": {
+    "totalPassed": 1,
+    "totalFailed": 0,
+    "totalSkipped": 0
+  }
+}
